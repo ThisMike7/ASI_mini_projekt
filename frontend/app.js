@@ -2,11 +2,13 @@ const API_BASE_URL = "http://127.0.0.1:8000";
 
 const map = L.map("map").setView([20.0, 0.0], 2);
 
-L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
 
-  maxZoom: 18,
+  maxZoom: 19,
 
-  attribution: "© OpenStreetMap contributors",
+  attribution:
+
+    '&copy; OpenStreetMap contributors &copy; CARTO',
 
 }).addTo(map);
 
