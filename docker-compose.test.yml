@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  test:
+    build:
+      context: ./backend
+    container_name: city-quality-test
+    command: python -m pytest tests/ -v
+    environment:
+      - ENV=test

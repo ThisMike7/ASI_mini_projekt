@@ -1,0 +1,63 @@
+version: "3.8"
+
+services:
+  backend:
+    build:
+      context: ./backend
+    container_name: city-quality-backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend/app:/app/app
+      - ./backend/wait_for_db.py:/app/wait_for_db.py
+    environment:
+      - ENV=dev
+      - DATABASE_URL=postgresql://city_user:city_password@db:5432/city_quality
+    depends_on:
+      - db
+    dns:
+      - 8.8.8.8
+      - 1.1.1.1
+
+  worker:
+    build:
+      context: ./backend
+    container_name: city-quality-worker
+    command: sh -c "python wait_for_db.py && python worker.py"
+    volumes:
+      - ./backend/app:/app/app
+      - ./backend/worker.py:/app/worker.py
+      - ./backend/wait_for_db.py:/app/wait_for_db.py
+    environment:
+      - ENV=dev
+      - DATABASE_URL=postgresql://city_user:city_password@db:5432/city_quality
+      - RUN_ON_STARTUP=false
+    depends_on:
+      - db
+    dns:
+      - 8.8.8.8
+      - 1.1.1.1
+
+  db:
+    image: postgres:16
+    container_name: city-quality-db
+    environment:
+      - POSTGRES_DB=city_quality
+      - POSTGRES_USER=city_user
+      - POSTGRES_PASSWORD=city_password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data_dev:/var/lib/postgresql/data
+
+  frontend:
+    build:
+      context: ./frontend
+    container_name: city-quality-frontend
+    ports:
+      - "8080:80"
+    depends_on:
+      - backend
+
+volumes:
+  postgres_data_dev:

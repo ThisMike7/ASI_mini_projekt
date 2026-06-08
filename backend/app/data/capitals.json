@@ -1,0 +1,1739 @@
+[
+  {
+    "name": "Algiers",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "official_country_name": "People's Democratic Republic of Algeria",
+    "continent": "Africa",
+    "latitude": 36.75,
+    "longitude": 3.05
+  },
+  {
+    "name": "Luanda",
+    "country": "Angola",
+    "country_code": "AO",
+    "official_country_name": "Republic of Angola",
+    "continent": "Africa",
+    "latitude": -8.83,
+    "longitude": 13.22
+  },
+  {
+    "name": "Porto-Novo",
+    "country": "Benin",
+    "country_code": "BJ",
+    "official_country_name": "Republic of Benin",
+    "continent": "Africa",
+    "latitude": 6.48,
+    "longitude": 2.62
+  },
+  {
+    "name": "Gaborone",
+    "country": "Botswana",
+    "country_code": "BW",
+    "official_country_name": "Republic of Botswana",
+    "continent": "Africa",
+    "latitude": -24.63,
+    "longitude": 25.9
+  },
+  {
+    "name": "Ouagadougou",
+    "country": "Burkina Faso",
+    "country_code": "BF",
+    "official_country_name": "Burkina Faso",
+    "continent": "Africa",
+    "latitude": 12.37,
+    "longitude": -1.52
+  },
+  {
+    "name": "Gitega",
+    "country": "Burundi",
+    "country_code": "BI",
+    "official_country_name": "Republic of Burundi",
+    "continent": "Africa",
+    "latitude": -3.43,
+    "longitude": 29.93
+  },
+  {
+    "name": "Yaoundé",
+    "country": "Cameroon",
+    "country_code": "CM",
+    "official_country_name": "Republic of Cameroon",
+    "continent": "Africa",
+    "latitude": 3.85,
+    "longitude": 11.5
+  },
+  {
+    "name": "Praia",
+    "country": "Cape Verde",
+    "country_code": "CV",
+    "official_country_name": "Republic of Cabo Verde",
+    "continent": "Africa",
+    "latitude": 14.92,
+    "longitude": -23.52
+  },
+  {
+    "name": "Bangui",
+    "country": "Central African Republic",
+    "country_code": "CF",
+    "official_country_name": "Central African Republic",
+    "continent": "Africa",
+    "latitude": 4.37,
+    "longitude": 18.58
+  },
+  {
+    "name": "N'Djamena",
+    "country": "Chad",
+    "country_code": "TD",
+    "official_country_name": "Republic of Chad",
+    "continent": "Africa",
+    "latitude": 12.1,
+    "longitude": 15.03
+  },
+  {
+    "name": "Moroni",
+    "country": "Comoros",
+    "country_code": "KM",
+    "official_country_name": "Union of the Comoros",
+    "continent": "Africa",
+    "latitude": -11.7,
+    "longitude": 43.23
+  },
+  {
+    "name": "Kinshasa",
+    "country": "DR Congo",
+    "country_code": "CD",
+    "official_country_name": "Democratic Republic of the Congo",
+    "continent": "Africa",
+    "latitude": -4.32,
+    "longitude": 15.3
+  },
+  {
+    "name": "Djibouti",
+    "country": "Djibouti",
+    "country_code": "DJ",
+    "official_country_name": "Republic of Djibouti",
+    "continent": "Africa",
+    "latitude": 11.58,
+    "longitude": 43.15
+  },
+  {
+    "name": "Cairo",
+    "country": "Egypt",
+    "country_code": "EG",
+    "official_country_name": "Arab Republic of Egypt",
+    "continent": "Africa",
+    "latitude": 30.05,
+    "longitude": 31.25
+  },
+  {
+    "name": "Ciudad de la Paz",
+    "country": "Equatorial Guinea",
+    "country_code": "GQ",
+    "official_country_name": "Republic of Equatorial Guinea",
+    "continent": "Africa",
+    "latitude": 1.35,
+    "longitude": 10.49
+  },
+  {
+    "name": "Asmara",
+    "country": "Eritrea",
+    "country_code": "ER",
+    "official_country_name": "State of Eritrea",
+    "continent": "Africa",
+    "latitude": 15.33,
+    "longitude": 38.93
+  },
+  {
+    "name": "Mbabane",
+    "country": "Eswatini",
+    "country_code": "SZ",
+    "official_country_name": "Kingdom of Eswatini",
+    "continent": "Africa",
+    "latitude": -26.32,
+    "longitude": 31.13
+  },
+  {
+    "name": "Addis Ababa",
+    "country": "Ethiopia",
+    "country_code": "ET",
+    "official_country_name": "Federal Democratic Republic of Ethiopia",
+    "continent": "Africa",
+    "latitude": 9.03,
+    "longitude": 38.7
+  },
+  {
+    "name": "Libreville",
+    "country": "Gabon",
+    "country_code": "GA",
+    "official_country_name": "Gabonese Republic",
+    "continent": "Africa",
+    "latitude": 0.38,
+    "longitude": 9.45
+  },
+  {
+    "name": "Banjul",
+    "country": "Gambia",
+    "country_code": "GM",
+    "official_country_name": "Republic of the Gambia",
+    "continent": "Africa",
+    "latitude": 13.45,
+    "longitude": -16.57
+  },
+  {
+    "name": "Accra",
+    "country": "Ghana",
+    "country_code": "GH",
+    "official_country_name": "Republic of Ghana",
+    "continent": "Africa",
+    "latitude": 5.55,
+    "longitude": -0.22
+  },
+  {
+    "name": "Conakry",
+    "country": "Guinea",
+    "country_code": "GN",
+    "official_country_name": "Republic of Guinea",
+    "continent": "Africa",
+    "latitude": 9.5,
+    "longitude": -13.7
+  },
+  {
+    "name": "Bissau",
+    "country": "Guinea-Bissau",
+    "country_code": "GW",
+    "official_country_name": "Republic of Guinea-Bissau",
+    "continent": "Africa",
+    "latitude": 11.85,
+    "longitude": -15.58
+  },
+  {
+    "name": "Yamoussoukro",
+    "country": "Ivory Coast",
+    "country_code": "CI",
+    "official_country_name": "Republic of Côte d'Ivoire",
+    "continent": "Africa",
+    "latitude": 6.82,
+    "longitude": -5.27
+  },
+  {
+    "name": "Nairobi",
+    "country": "Kenya",
+    "country_code": "KE",
+    "official_country_name": "Republic of Kenya",
+    "continent": "Africa",
+    "latitude": -1.28,
+    "longitude": 36.82
+  },
+  {
+    "name": "Maseru",
+    "country": "Lesotho",
+    "country_code": "LS",
+    "official_country_name": "Kingdom of Lesotho",
+    "continent": "Africa",
+    "latitude": -29.32,
+    "longitude": 27.48
+  },
+  {
+    "name": "Monrovia",
+    "country": "Liberia",
+    "country_code": "LR",
+    "official_country_name": "Republic of Liberia",
+    "continent": "Africa",
+    "latitude": 6.3,
+    "longitude": -10.8
+  },
+  {
+    "name": "Tripoli",
+    "country": "Libya",
+    "country_code": "LY",
+    "official_country_name": "State of Libya",
+    "continent": "Africa",
+    "latitude": 32.88,
+    "longitude": 13.17
+  },
+  {
+    "name": "Antananarivo",
+    "country": "Madagascar",
+    "country_code": "MG",
+    "official_country_name": "Republic of Madagascar",
+    "continent": "Africa",
+    "latitude": -18.92,
+    "longitude": 47.52
+  },
+  {
+    "name": "Lilongwe",
+    "country": "Malawi",
+    "country_code": "MW",
+    "official_country_name": "Republic of Malawi",
+    "continent": "Africa",
+    "latitude": -13.97,
+    "longitude": 33.78
+  },
+  {
+    "name": "Bamako",
+    "country": "Mali",
+    "country_code": "ML",
+    "official_country_name": "Republic of Mali",
+    "continent": "Africa",
+    "latitude": 12.65,
+    "longitude": -8.0
+  },
+  {
+    "name": "Nouakchott",
+    "country": "Mauritania",
+    "country_code": "MR",
+    "official_country_name": "Islamic Republic of Mauritania",
+    "continent": "Africa",
+    "latitude": 18.07,
+    "longitude": -15.97
+  },
+  {
+    "name": "Port Louis",
+    "country": "Mauritius",
+    "country_code": "MU",
+    "official_country_name": "Republic of Mauritius",
+    "continent": "Africa",
+    "latitude": -20.15,
+    "longitude": 57.48
+  },
+  {
+    "name": "Rabat",
+    "country": "Morocco",
+    "country_code": "MA",
+    "official_country_name": "Kingdom of Morocco",
+    "continent": "Africa",
+    "latitude": 34.02,
+    "longitude": -6.82
+  },
+  {
+    "name": "Maputo",
+    "country": "Mozambique",
+    "country_code": "MZ",
+    "official_country_name": "Republic of Mozambique",
+    "continent": "Africa",
+    "latitude": -25.95,
+    "longitude": 32.58
+  },
+  {
+    "name": "Windhoek",
+    "country": "Namibia",
+    "country_code": "NA",
+    "official_country_name": "Republic of Namibia",
+    "continent": "Africa",
+    "latitude": -22.57,
+    "longitude": 17.08
+  },
+  {
+    "name": "Niamey",
+    "country": "Niger",
+    "country_code": "NE",
+    "official_country_name": "Republic of Niger",
+    "continent": "Africa",
+    "latitude": 13.52,
+    "longitude": 2.12
+  },
+  {
+    "name": "Abuja",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "official_country_name": "Federal Republic of Nigeria",
+    "continent": "Africa",
+    "latitude": 9.08,
+    "longitude": 7.53
+  },
+  {
+    "name": "Brazzaville",
+    "country": "Republic of the Congo",
+    "country_code": "CG",
+    "official_country_name": "Republic of the Congo",
+    "continent": "Africa",
+    "latitude": -4.25,
+    "longitude": 15.28
+  },
+  {
+    "name": "Kigali",
+    "country": "Rwanda",
+    "country_code": "RW",
+    "official_country_name": "Republic of Rwanda",
+    "continent": "Africa",
+    "latitude": -1.95,
+    "longitude": 30.05
+  },
+  {
+    "name": "Dakar",
+    "country": "Senegal",
+    "country_code": "SN",
+    "official_country_name": "Republic of Senegal",
+    "continent": "Africa",
+    "latitude": 14.73,
+    "longitude": -17.63
+  },
+  {
+    "name": "Victoria",
+    "country": "Seychelles",
+    "country_code": "SC",
+    "official_country_name": "Republic of Seychelles",
+    "continent": "Africa",
+    "latitude": -4.62,
+    "longitude": 55.45
+  },
+  {
+    "name": "Freetown",
+    "country": "Sierra Leone",
+    "country_code": "SL",
+    "official_country_name": "Republic of Sierra Leone",
+    "continent": "Africa",
+    "latitude": 8.48,
+    "longitude": -13.23
+  },
+  {
+    "name": "Mogadishu",
+    "country": "Somalia",
+    "country_code": "SO",
+    "official_country_name": "Federal Republic of Somalia",
+    "continent": "Africa",
+    "latitude": 2.07,
+    "longitude": 45.33
+  },
+  {
+    "name": "Pretoria",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "official_country_name": "Republic of South Africa",
+    "continent": "Africa",
+    "latitude": -25.7,
+    "longitude": 28.22
+  },
+  {
+    "name": "Juba",
+    "country": "South Sudan",
+    "country_code": "SS",
+    "official_country_name": "Republic of South Sudan",
+    "continent": "Africa",
+    "latitude": 4.85,
+    "longitude": 31.62
+  },
+  {
+    "name": "Khartoum",
+    "country": "Sudan",
+    "country_code": "SD",
+    "official_country_name": "Republic of the Sudan",
+    "continent": "Africa",
+    "latitude": 15.6,
+    "longitude": 32.53
+  },
+  {
+    "name": "São Tomé",
+    "country": "São Tomé and Príncipe",
+    "country_code": "ST",
+    "official_country_name": "Democratic Republic of São Tomé and Príncipe",
+    "continent": "Africa",
+    "latitude": 0.34,
+    "longitude": 6.73
+  },
+  {
+    "name": "Dodoma",
+    "country": "Tanzania",
+    "country_code": "TZ",
+    "official_country_name": "United Republic of Tanzania",
+    "continent": "Africa",
+    "latitude": -6.16,
+    "longitude": 35.75
+  },
+  {
+    "name": "Lomé",
+    "country": "Togo",
+    "country_code": "TG",
+    "official_country_name": "Togolese Republic",
+    "continent": "Africa",
+    "latitude": 6.14,
+    "longitude": 1.21
+  },
+  {
+    "name": "Tunis",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "official_country_name": "Tunisian Republic",
+    "continent": "Africa",
+    "latitude": 36.8,
+    "longitude": 10.18
+  },
+  {
+    "name": "Kampala",
+    "country": "Uganda",
+    "country_code": "UG",
+    "official_country_name": "Republic of Uganda",
+    "continent": "Africa",
+    "latitude": 0.32,
+    "longitude": 32.55
+  },
+  {
+    "name": "Lusaka",
+    "country": "Zambia",
+    "country_code": "ZM",
+    "official_country_name": "Republic of Zambia",
+    "continent": "Africa",
+    "latitude": -15.42,
+    "longitude": 28.28
+  },
+  {
+    "name": "Harare",
+    "country": "Zimbabwe",
+    "country_code": "ZW",
+    "official_country_name": "Republic of Zimbabwe",
+    "continent": "Africa",
+    "latitude": -17.82,
+    "longitude": 31.03
+  },
+  {
+    "name": "Kabul",
+    "country": "Afghanistan",
+    "country_code": "AF",
+    "official_country_name": "Islamic Republic of Afghanistan",
+    "continent": "Asia",
+    "latitude": 34.52,
+    "longitude": 69.18
+  },
+  {
+    "name": "Yerevan",
+    "country": "Armenia",
+    "country_code": "AM",
+    "official_country_name": "Republic of Armenia",
+    "continent": "Asia",
+    "latitude": 40.17,
+    "longitude": 44.5
+  },
+  {
+    "name": "Baku",
+    "country": "Azerbaijan",
+    "country_code": "AZ",
+    "official_country_name": "Republic of Azerbaijan",
+    "continent": "Asia",
+    "latitude": 40.38,
+    "longitude": 49.87
+  },
+  {
+    "name": "Manama",
+    "country": "Bahrain",
+    "country_code": "BH",
+    "official_country_name": "Kingdom of Bahrain",
+    "continent": "Asia",
+    "latitude": 26.23,
+    "longitude": 50.57
+  },
+  {
+    "name": "Dhaka",
+    "country": "Bangladesh",
+    "country_code": "BD",
+    "official_country_name": "People's Republic of Bangladesh",
+    "continent": "Asia",
+    "latitude": 23.72,
+    "longitude": 90.4
+  },
+  {
+    "name": "Thimphu",
+    "country": "Bhutan",
+    "country_code": "BT",
+    "official_country_name": "Kingdom of Bhutan",
+    "continent": "Asia",
+    "latitude": 27.47,
+    "longitude": 89.63
+  },
+  {
+    "name": "Bandar Seri Begawan",
+    "country": "Brunei",
+    "country_code": "BN",
+    "official_country_name": "Nation of Brunei, Abode of Peace",
+    "continent": "Asia",
+    "latitude": 4.88,
+    "longitude": 114.93
+  },
+  {
+    "name": "Phnom Penh",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "official_country_name": "Kingdom of Cambodia",
+    "continent": "Asia",
+    "latitude": 11.55,
+    "longitude": 104.92
+  },
+  {
+    "name": "Beijing",
+    "country": "China",
+    "country_code": "CN",
+    "official_country_name": "People's Republic of China",
+    "continent": "Asia",
+    "latitude": 39.92,
+    "longitude": 116.38
+  },
+  {
+    "name": "Tbilisi",
+    "country": "Georgia",
+    "country_code": "GE",
+    "official_country_name": "Georgia",
+    "continent": "Asia",
+    "latitude": 41.68,
+    "longitude": 44.83
+  },
+  {
+    "name": "New Delhi",
+    "country": "India",
+    "country_code": "IN",
+    "official_country_name": "Republic of India",
+    "continent": "Asia",
+    "latitude": 28.6,
+    "longitude": 77.2
+  },
+  {
+    "name": "Jakarta",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "official_country_name": "Republic of Indonesia",
+    "continent": "Asia",
+    "latitude": -6.17,
+    "longitude": 106.82
+  },
+  {
+    "name": "Tehran",
+    "country": "Iran",
+    "country_code": "IR",
+    "official_country_name": "Islamic Republic of Iran",
+    "continent": "Asia",
+    "latitude": 35.7,
+    "longitude": 51.42
+  },
+  {
+    "name": "Baghdad",
+    "country": "Iraq",
+    "country_code": "IQ",
+    "official_country_name": "Republic of Iraq",
+    "continent": "Asia",
+    "latitude": 33.33,
+    "longitude": 44.4
+  },
+  {
+    "name": "Jerusalem",
+    "country": "Israel",
+    "country_code": "IL",
+    "official_country_name": "State of Israel",
+    "continent": "Asia",
+    "latitude": 31.77,
+    "longitude": 35.23
+  },
+  {
+    "name": "Tokyo",
+    "country": "Japan",
+    "country_code": "JP",
+    "official_country_name": "Japan",
+    "continent": "Asia",
+    "latitude": 35.68,
+    "longitude": 139.75
+  },
+  {
+    "name": "Amman",
+    "country": "Jordan",
+    "country_code": "JO",
+    "official_country_name": "Hashemite Kingdom of Jordan",
+    "continent": "Asia",
+    "latitude": 31.95,
+    "longitude": 35.93
+  },
+  {
+    "name": "Astana",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "official_country_name": "Republic of Kazakhstan",
+    "continent": "Asia",
+    "latitude": 51.16,
+    "longitude": 71.45
+  },
+  {
+    "name": "Kuwait City",
+    "country": "Kuwait",
+    "country_code": "KW",
+    "official_country_name": "State of Kuwait",
+    "continent": "Asia",
+    "latitude": 29.37,
+    "longitude": 47.97
+  },
+  {
+    "name": "Bishkek",
+    "country": "Kyrgyzstan",
+    "country_code": "KG",
+    "official_country_name": "Kyrgyz Republic",
+    "continent": "Asia",
+    "latitude": 42.87,
+    "longitude": 74.6
+  },
+  {
+    "name": "Vientiane",
+    "country": "Laos",
+    "country_code": "LA",
+    "official_country_name": "Lao People's Democratic Republic",
+    "continent": "Asia",
+    "latitude": 17.97,
+    "longitude": 102.6
+  },
+  {
+    "name": "Beirut",
+    "country": "Lebanon",
+    "country_code": "LB",
+    "official_country_name": "Lebanese Republic",
+    "continent": "Asia",
+    "latitude": 33.87,
+    "longitude": 35.5
+  },
+  {
+    "name": "Kuala Lumpur",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "official_country_name": "Malaysia",
+    "continent": "Asia",
+    "latitude": 3.17,
+    "longitude": 101.7
+  },
+  {
+    "name": "Malé",
+    "country": "Maldives",
+    "country_code": "MV",
+    "official_country_name": "Republic of the Maldives",
+    "continent": "Asia",
+    "latitude": 4.17,
+    "longitude": 73.51
+  },
+  {
+    "name": "Ulan Bator",
+    "country": "Mongolia",
+    "country_code": "MN",
+    "official_country_name": "Mongolia",
+    "continent": "Asia",
+    "latitude": 47.92,
+    "longitude": 106.91
+  },
+  {
+    "name": "Naypyidaw",
+    "country": "Myanmar",
+    "country_code": "MM",
+    "official_country_name": "Republic of the Union of Myanmar",
+    "continent": "Asia",
+    "latitude": 19.76,
+    "longitude": 96.07
+  },
+  {
+    "name": "Kathmandu",
+    "country": "Nepal",
+    "country_code": "NP",
+    "official_country_name": "Federal Democratic Republic of Nepal",
+    "continent": "Asia",
+    "latitude": 27.72,
+    "longitude": 85.32
+  },
+  {
+    "name": "Pyongyang",
+    "country": "North Korea",
+    "country_code": "KP",
+    "official_country_name": "Democratic People's Republic of Korea",
+    "continent": "Asia",
+    "latitude": 39.02,
+    "longitude": 125.75
+  },
+  {
+    "name": "Muscat",
+    "country": "Oman",
+    "country_code": "OM",
+    "official_country_name": "Sultanate of Oman",
+    "continent": "Asia",
+    "latitude": 23.62,
+    "longitude": 58.58
+  },
+  {
+    "name": "Islamabad",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "official_country_name": "Islamic Republic of Pakistan",
+    "continent": "Asia",
+    "latitude": 33.68,
+    "longitude": 73.05
+  },
+  {
+    "name": "Manila",
+    "country": "Philippines",
+    "country_code": "PH",
+    "official_country_name": "Republic of the Philippines",
+    "continent": "Asia",
+    "latitude": 14.6,
+    "longitude": 120.97
+  },
+  {
+    "name": "Doha",
+    "country": "Qatar",
+    "country_code": "QA",
+    "official_country_name": "State of Qatar",
+    "continent": "Asia",
+    "latitude": 25.28,
+    "longitude": 51.53
+  },
+  {
+    "name": "Riyadh",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "official_country_name": "Kingdom of Saudi Arabia",
+    "continent": "Asia",
+    "latitude": 24.65,
+    "longitude": 46.7
+  },
+  {
+    "name": "Singapore",
+    "country": "Singapore",
+    "country_code": "SG",
+    "official_country_name": "Republic of Singapore",
+    "continent": "Asia",
+    "latitude": 1.28,
+    "longitude": 103.85
+  },
+  {
+    "name": "Seoul",
+    "country": "South Korea",
+    "country_code": "KR",
+    "official_country_name": "Republic of Korea",
+    "continent": "Asia",
+    "latitude": 37.55,
+    "longitude": 126.98
+  },
+  {
+    "name": "Sri Jayawardenepura Kotte",
+    "country": "Sri Lanka",
+    "country_code": "LK",
+    "official_country_name": "Democratic Socialist Republic of Sri Lanka",
+    "continent": "Asia",
+    "latitude": 6.89,
+    "longitude": 79.9
+  },
+  {
+    "name": "Damascus",
+    "country": "Syria",
+    "country_code": "SY",
+    "official_country_name": "Syrian Arab Republic",
+    "continent": "Asia",
+    "latitude": 33.5,
+    "longitude": 36.3
+  },
+  {
+    "name": "Dushanbe",
+    "country": "Tajikistan",
+    "country_code": "TJ",
+    "official_country_name": "Republic of Tajikistan",
+    "continent": "Asia",
+    "latitude": 38.55,
+    "longitude": 68.77
+  },
+  {
+    "name": "Bangkok",
+    "country": "Thailand",
+    "country_code": "TH",
+    "official_country_name": "Kingdom of Thailand",
+    "continent": "Asia",
+    "latitude": 13.75,
+    "longitude": 100.52
+  },
+  {
+    "name": "Dili",
+    "country": "Timor-Leste",
+    "country_code": "TL",
+    "official_country_name": "Democratic Republic of Timor-Leste",
+    "continent": "Asia",
+    "latitude": -8.58,
+    "longitude": 125.6
+  },
+  {
+    "name": "Ankara",
+    "country": "Turkey",
+    "country_code": "TR",
+    "official_country_name": "Republic of Turkey",
+    "continent": "Asia",
+    "latitude": 39.93,
+    "longitude": 32.87
+  },
+  {
+    "name": "Ashgabat",
+    "country": "Turkmenistan",
+    "country_code": "TM",
+    "official_country_name": "Turkmenistan",
+    "continent": "Asia",
+    "latitude": 37.95,
+    "longitude": 58.38
+  },
+  {
+    "name": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "official_country_name": "United Arab Emirates",
+    "continent": "Asia",
+    "latitude": 24.47,
+    "longitude": 54.37
+  },
+  {
+    "name": "Tashkent",
+    "country": "Uzbekistan",
+    "country_code": "UZ",
+    "official_country_name": "Republic of Uzbekistan",
+    "continent": "Asia",
+    "latitude": 41.32,
+    "longitude": 69.25
+  },
+  {
+    "name": "Hanoi",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "official_country_name": "Socialist Republic of Vietnam",
+    "continent": "Asia",
+    "latitude": 21.03,
+    "longitude": 105.85
+  },
+  {
+    "name": "Sana'a",
+    "country": "Yemen",
+    "country_code": "YE",
+    "official_country_name": "Republic of Yemen",
+    "continent": "Asia",
+    "latitude": 15.37,
+    "longitude": 44.19
+  },
+  {
+    "name": "Tirana",
+    "country": "Albania",
+    "country_code": "AL",
+    "official_country_name": "Republic of Albania",
+    "continent": "Europe",
+    "latitude": 41.32,
+    "longitude": 19.82
+  },
+  {
+    "name": "Andorra la Vella",
+    "country": "Andorra",
+    "country_code": "AD",
+    "official_country_name": "Principality of Andorra",
+    "continent": "Europe",
+    "latitude": 42.5,
+    "longitude": 1.52
+  },
+  {
+    "name": "Vienna",
+    "country": "Austria",
+    "country_code": "AT",
+    "official_country_name": "Republic of Austria",
+    "continent": "Europe",
+    "latitude": 48.2,
+    "longitude": 16.37
+  },
+  {
+    "name": "Minsk",
+    "country": "Belarus",
+    "country_code": "BY",
+    "official_country_name": "Republic of Belarus",
+    "continent": "Europe",
+    "latitude": 53.9,
+    "longitude": 27.57
+  },
+  {
+    "name": "Brussels",
+    "country": "Belgium",
+    "country_code": "BE",
+    "official_country_name": "Kingdom of Belgium",
+    "continent": "Europe",
+    "latitude": 50.83,
+    "longitude": 4.33
+  },
+  {
+    "name": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "country_code": "BA",
+    "official_country_name": "Bosnia and Herzegovina",
+    "continent": "Europe",
+    "latitude": 43.87,
+    "longitude": 18.42
+  },
+  {
+    "name": "Sofia",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "official_country_name": "Republic of Bulgaria",
+    "continent": "Europe",
+    "latitude": 42.68,
+    "longitude": 23.32
+  },
+  {
+    "name": "Zagreb",
+    "country": "Croatia",
+    "country_code": "HR",
+    "official_country_name": "Republic of Croatia",
+    "continent": "Europe",
+    "latitude": 45.8,
+    "longitude": 16.0
+  },
+  {
+    "name": "Nicosia",
+    "country": "Cyprus",
+    "country_code": "CY",
+    "official_country_name": "Republic of Cyprus",
+    "continent": "Europe",
+    "latitude": 35.17,
+    "longitude": 33.37
+  },
+  {
+    "name": "Prague",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "official_country_name": "Czech Republic",
+    "continent": "Europe",
+    "latitude": 50.08,
+    "longitude": 14.47
+  },
+  {
+    "name": "Copenhagen",
+    "country": "Denmark",
+    "country_code": "DK",
+    "official_country_name": "Kingdom of Denmark",
+    "continent": "Europe",
+    "latitude": 55.67,
+    "longitude": 12.58
+  },
+  {
+    "name": "Tallinn",
+    "country": "Estonia",
+    "country_code": "EE",
+    "official_country_name": "Republic of Estonia",
+    "continent": "Europe",
+    "latitude": 59.43,
+    "longitude": 24.72
+  },
+  {
+    "name": "Helsinki",
+    "country": "Finland",
+    "country_code": "FI",
+    "official_country_name": "Republic of Finland",
+    "continent": "Europe",
+    "latitude": 60.17,
+    "longitude": 24.93
+  },
+  {
+    "name": "Paris",
+    "country": "France",
+    "country_code": "FR",
+    "official_country_name": "French Republic",
+    "continent": "Europe",
+    "latitude": 48.87,
+    "longitude": 2.33
+  },
+  {
+    "name": "Berlin",
+    "country": "Germany",
+    "country_code": "DE",
+    "official_country_name": "Federal Republic of Germany",
+    "continent": "Europe",
+    "latitude": 52.52,
+    "longitude": 13.4
+  },
+  {
+    "name": "Athens",
+    "country": "Greece",
+    "country_code": "GR",
+    "official_country_name": "Hellenic Republic",
+    "continent": "Europe",
+    "latitude": 37.98,
+    "longitude": 23.73
+  },
+  {
+    "name": "Budapest",
+    "country": "Hungary",
+    "country_code": "HU",
+    "official_country_name": "Hungary",
+    "continent": "Europe",
+    "latitude": 47.5,
+    "longitude": 19.08
+  },
+  {
+    "name": "Reykjavik",
+    "country": "Iceland",
+    "country_code": "IS",
+    "official_country_name": "Iceland",
+    "continent": "Europe",
+    "latitude": 64.15,
+    "longitude": -21.95
+  },
+  {
+    "name": "Dublin",
+    "country": "Ireland",
+    "country_code": "IE",
+    "official_country_name": "Republic of Ireland",
+    "continent": "Europe",
+    "latitude": 53.32,
+    "longitude": -6.23
+  },
+  {
+    "name": "Rome",
+    "country": "Italy",
+    "country_code": "IT",
+    "official_country_name": "Italian Republic",
+    "continent": "Europe",
+    "latitude": 41.9,
+    "longitude": 12.48
+  },
+  {
+    "name": "Riga",
+    "country": "Latvia",
+    "country_code": "LV",
+    "official_country_name": "Republic of Latvia",
+    "continent": "Europe",
+    "latitude": 56.95,
+    "longitude": 24.1
+  },
+  {
+    "name": "Vaduz",
+    "country": "Liechtenstein",
+    "country_code": "LI",
+    "official_country_name": "Principality of Liechtenstein",
+    "continent": "Europe",
+    "latitude": 47.13,
+    "longitude": 9.52
+  },
+  {
+    "name": "Vilnius",
+    "country": "Lithuania",
+    "country_code": "LT",
+    "official_country_name": "Republic of Lithuania",
+    "continent": "Europe",
+    "latitude": 54.68,
+    "longitude": 25.32
+  },
+  {
+    "name": "Luxembourg",
+    "country": "Luxembourg",
+    "country_code": "LU",
+    "official_country_name": "Grand Duchy of Luxembourg",
+    "continent": "Europe",
+    "latitude": 49.6,
+    "longitude": 6.12
+  },
+  {
+    "name": "Valletta",
+    "country": "Malta",
+    "country_code": "MT",
+    "official_country_name": "Republic of Malta",
+    "continent": "Europe",
+    "latitude": 35.88,
+    "longitude": 14.5
+  },
+  {
+    "name": "Chișinău",
+    "country": "Moldova",
+    "country_code": "MD",
+    "official_country_name": "Republic of Moldova",
+    "continent": "Europe",
+    "latitude": 47.01,
+    "longitude": 28.9
+  },
+  {
+    "name": "Monaco",
+    "country": "Monaco",
+    "country_code": "MC",
+    "official_country_name": "Principality of Monaco",
+    "continent": "Europe",
+    "latitude": 43.73,
+    "longitude": 7.42
+  },
+  {
+    "name": "Podgorica",
+    "country": "Montenegro",
+    "country_code": "ME",
+    "official_country_name": "Montenegro",
+    "continent": "Europe",
+    "latitude": 42.43,
+    "longitude": 19.27
+  },
+  {
+    "name": "Amsterdam",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "official_country_name": "Kingdom of the Netherlands",
+    "continent": "Europe",
+    "latitude": 52.35,
+    "longitude": 4.92
+  },
+  {
+    "name": "Skopje",
+    "country": "North Macedonia",
+    "country_code": "MK",
+    "official_country_name": "Republic of North Macedonia",
+    "continent": "Europe",
+    "latitude": 42.0,
+    "longitude": 21.43
+  },
+  {
+    "name": "Oslo",
+    "country": "Norway",
+    "country_code": "NO",
+    "official_country_name": "Kingdom of Norway",
+    "continent": "Europe",
+    "latitude": 59.92,
+    "longitude": 10.75
+  },
+  {
+    "name": "Warsaw",
+    "country": "Poland",
+    "country_code": "PL",
+    "official_country_name": "Republic of Poland",
+    "continent": "Europe",
+    "latitude": 52.25,
+    "longitude": 21.0
+  },
+  {
+    "name": "Lisbon",
+    "country": "Portugal",
+    "country_code": "PT",
+    "official_country_name": "Portuguese Republic",
+    "continent": "Europe",
+    "latitude": 38.72,
+    "longitude": -9.13
+  },
+  {
+    "name": "Bucharest",
+    "country": "Romania",
+    "country_code": "RO",
+    "official_country_name": "Romania",
+    "continent": "Europe",
+    "latitude": 44.43,
+    "longitude": 26.1
+  },
+  {
+    "name": "Moscow",
+    "country": "Russia",
+    "country_code": "RU",
+    "official_country_name": "Russian Federation",
+    "continent": "Europe",
+    "latitude": 55.75,
+    "longitude": 37.6
+  },
+  {
+    "name": "City of San Marino",
+    "country": "San Marino",
+    "country_code": "SM",
+    "official_country_name": "Republic of San Marino",
+    "continent": "Europe",
+    "latitude": 43.94,
+    "longitude": 12.45
+  },
+  {
+    "name": "Belgrade",
+    "country": "Serbia",
+    "country_code": "RS",
+    "official_country_name": "Republic of Serbia",
+    "continent": "Europe",
+    "latitude": 44.83,
+    "longitude": 20.5
+  },
+  {
+    "name": "Bratislava",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "official_country_name": "Slovak Republic",
+    "continent": "Europe",
+    "latitude": 48.15,
+    "longitude": 17.12
+  },
+  {
+    "name": "Ljubljana",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "official_country_name": "Republic of Slovenia",
+    "continent": "Europe",
+    "latitude": 46.05,
+    "longitude": 14.52
+  },
+  {
+    "name": "Madrid",
+    "country": "Spain",
+    "country_code": "ES",
+    "official_country_name": "Kingdom of Spain",
+    "continent": "Europe",
+    "latitude": 40.4,
+    "longitude": -3.68
+  },
+  {
+    "name": "Stockholm",
+    "country": "Sweden",
+    "country_code": "SE",
+    "official_country_name": "Kingdom of Sweden",
+    "continent": "Europe",
+    "latitude": 59.33,
+    "longitude": 18.05
+  },
+  {
+    "name": "Bern",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "official_country_name": "Swiss Confederation",
+    "continent": "Europe",
+    "latitude": 46.92,
+    "longitude": 7.47
+  },
+  {
+    "name": "Kyiv",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "official_country_name": "Ukraine",
+    "continent": "Europe",
+    "latitude": 50.43,
+    "longitude": 30.52
+  },
+  {
+    "name": "London",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "official_country_name": "United Kingdom of Great Britain and Northern Ireland",
+    "continent": "Europe",
+    "latitude": 51.5,
+    "longitude": -0.08
+  },
+  {
+    "name": "Saint John's",
+    "country": "Antigua and Barbuda",
+    "country_code": "AG",
+    "official_country_name": "Antigua and Barbuda",
+    "continent": "North America",
+    "latitude": 17.12,
+    "longitude": -61.85
+  },
+  {
+    "name": "Nassau",
+    "country": "Bahamas",
+    "country_code": "BS",
+    "official_country_name": "Commonwealth of the Bahamas",
+    "continent": "North America",
+    "latitude": 25.08,
+    "longitude": -77.35
+  },
+  {
+    "name": "Bridgetown",
+    "country": "Barbados",
+    "country_code": "BB",
+    "official_country_name": "Barbados",
+    "continent": "North America",
+    "latitude": 13.1,
+    "longitude": -59.62
+  },
+  {
+    "name": "Belmopan",
+    "country": "Belize",
+    "country_code": "BZ",
+    "official_country_name": "Belize",
+    "continent": "North America",
+    "latitude": 17.25,
+    "longitude": -88.77
+  },
+  {
+    "name": "Ottawa",
+    "country": "Canada",
+    "country_code": "CA",
+    "official_country_name": "Canada",
+    "continent": "North America",
+    "latitude": 45.42,
+    "longitude": -75.7
+  },
+  {
+    "name": "San José",
+    "country": "Costa Rica",
+    "country_code": "CR",
+    "official_country_name": "Republic of Costa Rica",
+    "continent": "North America",
+    "latitude": 9.93,
+    "longitude": -84.09
+  },
+  {
+    "name": "Havana",
+    "country": "Cuba",
+    "country_code": "CU",
+    "official_country_name": "Republic of Cuba",
+    "continent": "North America",
+    "latitude": 23.12,
+    "longitude": -82.35
+  },
+  {
+    "name": "Roseau",
+    "country": "Dominica",
+    "country_code": "DM",
+    "official_country_name": "Commonwealth of Dominica",
+    "continent": "North America",
+    "latitude": 15.3,
+    "longitude": -61.4
+  },
+  {
+    "name": "Santo Domingo",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "official_country_name": "Dominican Republic",
+    "continent": "North America",
+    "latitude": 18.47,
+    "longitude": -69.9
+  },
+  {
+    "name": "San Salvador",
+    "country": "El Salvador",
+    "country_code": "SV",
+    "official_country_name": "Republic of El Salvador",
+    "continent": "North America",
+    "latitude": 13.7,
+    "longitude": -89.2
+  },
+  {
+    "name": "St. George's",
+    "country": "Grenada",
+    "country_code": "GD",
+    "official_country_name": "Grenada",
+    "continent": "North America",
+    "latitude": 32.38,
+    "longitude": -64.68
+  },
+  {
+    "name": "Guatemala City",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "official_country_name": "Republic of Guatemala",
+    "continent": "North America",
+    "latitude": 14.62,
+    "longitude": -90.52
+  },
+  {
+    "name": "Port-au-Prince",
+    "country": "Haiti",
+    "country_code": "HT",
+    "official_country_name": "Republic of Haiti",
+    "continent": "North America",
+    "latitude": 18.53,
+    "longitude": -72.33
+  },
+  {
+    "name": "Tegucigalpa",
+    "country": "Honduras",
+    "country_code": "HN",
+    "official_country_name": "Republic of Honduras",
+    "continent": "North America",
+    "latitude": 14.1,
+    "longitude": -87.22
+  },
+  {
+    "name": "Kingston",
+    "country": "Jamaica",
+    "country_code": "JM",
+    "official_country_name": "Jamaica",
+    "continent": "North America",
+    "latitude": 17.99702,
+    "longitude": -76.79358
+  },
+  {
+    "name": "Mexico City",
+    "country": "Mexico",
+    "country_code": "MX",
+    "official_country_name": "United Mexican States",
+    "continent": "North America",
+    "latitude": 19.43,
+    "longitude": -99.13
+  },
+  {
+    "name": "Managua",
+    "country": "Nicaragua",
+    "country_code": "NI",
+    "official_country_name": "Republic of Nicaragua",
+    "continent": "North America",
+    "latitude": 12.13,
+    "longitude": -86.25
+  },
+  {
+    "name": "Panama City",
+    "country": "Panama",
+    "country_code": "PA",
+    "official_country_name": "Republic of Panama",
+    "continent": "North America",
+    "latitude": 8.97,
+    "longitude": -79.53
+  },
+  {
+    "name": "Basseterre",
+    "country": "Saint Kitts and Nevis",
+    "country_code": "KN",
+    "official_country_name": "Federation of Saint Christopher and Nevis",
+    "continent": "North America",
+    "latitude": 17.3,
+    "longitude": -62.72
+  },
+  {
+    "name": "Castries",
+    "country": "Saint Lucia",
+    "country_code": "LC",
+    "official_country_name": "Saint Lucia",
+    "continent": "North America",
+    "latitude": 14.0,
+    "longitude": -61.0
+  },
+  {
+    "name": "Kingstown",
+    "country": "Saint Vincent and the Grenadines",
+    "country_code": "VC",
+    "official_country_name": "Saint Vincent and the Grenadines",
+    "continent": "North America",
+    "latitude": 13.13,
+    "longitude": -61.22
+  },
+  {
+    "name": "Port of Spain",
+    "country": "Trinidad and Tobago",
+    "country_code": "TT",
+    "official_country_name": "Republic of Trinidad and Tobago",
+    "continent": "North America",
+    "latitude": 10.65,
+    "longitude": -61.52
+  },
+  {
+    "name": "Washington, D.C.",
+    "country": "United States",
+    "country_code": "US",
+    "official_country_name": "United States of America",
+    "continent": "North America",
+    "latitude": 38.89,
+    "longitude": -77.05
+  },
+  {
+    "name": "Canberra",
+    "country": "Australia",
+    "country_code": "AU",
+    "official_country_name": "Commonwealth of Australia",
+    "continent": "Oceania",
+    "latitude": -35.27,
+    "longitude": 149.13
+  },
+  {
+    "name": "Suva",
+    "country": "Fiji",
+    "country_code": "FJ",
+    "official_country_name": "Republic of Fiji",
+    "continent": "Oceania",
+    "latitude": -18.13,
+    "longitude": 178.42
+  },
+  {
+    "name": "South Tarawa",
+    "country": "Kiribati",
+    "country_code": "KI",
+    "official_country_name": "Independent and Sovereign Republic of Kiribati",
+    "continent": "Oceania",
+    "latitude": 1.33,
+    "longitude": 172.98
+  },
+  {
+    "name": "Majuro",
+    "country": "Marshall Islands",
+    "country_code": "MH",
+    "official_country_name": "Republic of the Marshall Islands",
+    "continent": "Oceania",
+    "latitude": 7.1,
+    "longitude": 171.38
+  },
+  {
+    "name": "Palikir",
+    "country": "Micronesia",
+    "country_code": "FM",
+    "official_country_name": "Federated States of Micronesia",
+    "continent": "Oceania",
+    "latitude": 6.92,
+    "longitude": 158.15
+  },
+  {
+    "name": "Yaren",
+    "country": "Nauru",
+    "country_code": "NR",
+    "official_country_name": "Republic of Nauru",
+    "continent": "Oceania",
+    "latitude": -0.55,
+    "longitude": 166.92
+  },
+  {
+    "name": "Wellington",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "official_country_name": "New Zealand",
+    "continent": "Oceania",
+    "latitude": -41.3,
+    "longitude": 174.78
+  },
+  {
+    "name": "Ngerulmud",
+    "country": "Palau",
+    "country_code": "PW",
+    "official_country_name": "Republic of Palau",
+    "continent": "Oceania",
+    "latitude": 7.5,
+    "longitude": 134.62
+  },
+  {
+    "name": "Port Moresby",
+    "country": "Papua New Guinea",
+    "country_code": "PG",
+    "official_country_name": "Independent State of Papua New Guinea",
+    "continent": "Oceania",
+    "latitude": -9.45,
+    "longitude": 147.18
+  },
+  {
+    "name": "Apia",
+    "country": "Samoa",
+    "country_code": "WS",
+    "official_country_name": "Independent State of Samoa",
+    "continent": "Oceania",
+    "latitude": -13.82,
+    "longitude": -171.77
+  },
+  {
+    "name": "Honiara",
+    "country": "Solomon Islands",
+    "country_code": "SB",
+    "official_country_name": "Solomon Islands",
+    "continent": "Oceania",
+    "latitude": -9.43,
+    "longitude": 159.95
+  },
+  {
+    "name": "Nuku'alofa",
+    "country": "Tonga",
+    "country_code": "TO",
+    "official_country_name": "Kingdom of Tonga",
+    "continent": "Oceania",
+    "latitude": -21.13,
+    "longitude": -175.2
+  },
+  {
+    "name": "Funafuti",
+    "country": "Tuvalu",
+    "country_code": "TV",
+    "official_country_name": "Tuvalu",
+    "continent": "Oceania",
+    "latitude": -8.52,
+    "longitude": 179.22
+  },
+  {
+    "name": "Port Vila",
+    "country": "Vanuatu",
+    "country_code": "VU",
+    "official_country_name": "Republic of Vanuatu",
+    "continent": "Oceania",
+    "latitude": -17.73,
+    "longitude": 168.32
+  },
+  {
+    "name": "Buenos Aires",
+    "country": "Argentina",
+    "country_code": "AR",
+    "official_country_name": "Argentine Republic",
+    "continent": "South America",
+    "latitude": -34.58,
+    "longitude": -58.67
+  },
+  {
+    "name": "Sucre",
+    "country": "Bolivia",
+    "country_code": "BO",
+    "official_country_name": "Plurinational State of Bolivia",
+    "continent": "South America",
+    "latitude": -19.02,
+    "longitude": -65.26
+  },
+  {
+    "name": "Brasília",
+    "country": "Brazil",
+    "country_code": "BR",
+    "official_country_name": "Federative Republic of Brazil",
+    "continent": "South America",
+    "latitude": -15.79,
+    "longitude": -47.88
+  },
+  {
+    "name": "Santiago",
+    "country": "Chile",
+    "country_code": "CL",
+    "official_country_name": "Republic of Chile",
+    "continent": "South America",
+    "latitude": -33.45,
+    "longitude": -70.67
+  },
+  {
+    "name": "Bogotá",
+    "country": "Colombia",
+    "country_code": "CO",
+    "official_country_name": "Republic of Colombia",
+    "continent": "South America",
+    "latitude": 4.71,
+    "longitude": -74.07
+  },
+  {
+    "name": "Quito",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "official_country_name": "Republic of Ecuador",
+    "continent": "South America",
+    "latitude": -0.22,
+    "longitude": -78.5
+  },
+  {
+    "name": "Georgetown",
+    "country": "Guyana",
+    "country_code": "GY",
+    "official_country_name": "Co-operative Republic of Guyana",
+    "continent": "South America",
+    "latitude": 6.8,
+    "longitude": -58.15
+  },
+  {
+    "name": "Asunción",
+    "country": "Paraguay",
+    "country_code": "PY",
+    "official_country_name": "Republic of Paraguay",
+    "continent": "South America",
+    "latitude": -25.28,
+    "longitude": -57.57
+  },
+  {
+    "name": "Lima",
+    "country": "Peru",
+    "country_code": "PE",
+    "official_country_name": "Republic of Peru",
+    "continent": "South America",
+    "latitude": -12.05,
+    "longitude": -77.05
+  },
+  {
+    "name": "Paramaribo",
+    "country": "Suriname",
+    "country_code": "SR",
+    "official_country_name": "Republic of Suriname",
+    "continent": "South America",
+    "latitude": 5.83,
+    "longitude": -55.17
+  },
+  {
+    "name": "Montevideo",
+    "country": "Uruguay",
+    "country_code": "UY",
+    "official_country_name": "Oriental Republic of Uruguay",
+    "continent": "South America",
+    "latitude": -34.85,
+    "longitude": -56.17
+  },
+  {
+    "name": "Caracas",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "official_country_name": "Bolivarian Republic of Venezuela",
+    "continent": "South America",
+    "latitude": 10.48,
+    "longitude": -66.87
+  }
+]

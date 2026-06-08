@@ -1,0 +1,58 @@
+version: "3.8"
+
+services:
+  backend:
+    build:
+      context: ./backend
+    container_name: city-quality-backend-prod
+    ports:
+      - "8000:8000"
+    environment:
+      - ENV=prod
+      - DATABASE_URL=postgresql://city_user:city_password@db:5432/city_quality
+    depends_on:
+      - db
+    restart: always
+    dns:
+      - 8.8.8.8
+      - 1.1.1.1
+
+  worker:
+    build:
+      context: ./backend
+    container_name: city-quality-worker-prod
+    command: sh -c "python wait_for_db.py && python -u worker.py"
+    environment:
+      - ENV=prod
+      - DATABASE_URL=postgresql://city_user:city_password@db:5432/city_quality
+      - RUN_ON_STARTUP=true
+    depends_on:
+      - db
+    restart: always
+    dns:
+      - 8.8.8.8
+      - 1.1.1.1
+
+  db:
+    image: postgres:16
+    container_name: city-quality-db-prod
+    environment:
+      - POSTGRES_DB=city_quality
+      - POSTGRES_USER=city_user
+      - POSTGRES_PASSWORD=city_password
+    volumes:
+      - postgres_data_prod:/var/lib/postgresql/data
+    restart: always
+
+  frontend:
+    build:
+      context: ./frontend
+    container_name: city-quality-frontend-prod
+    ports:
+      - "8080:80"
+    depends_on:
+      - backend
+    restart: always
+
+volumes:
+  postgres_data_prod:

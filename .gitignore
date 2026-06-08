@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+*.egg-info/
+
+# Pytest
+.pytest_cache/
+
+# Docker
+*.log
+
+# Locust reports
+locust_report_*.html
+locust_*_stats*.csv
+locust_*_failures.csv
+locust_*_exceptions.csv
+locust_*_stats_history.csv
+
+# OS
+.DS_Store

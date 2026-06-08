@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Capital Quality Monitoring System</title>
+
+  <link rel="stylesheet" href="style.css" />
+
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  />
+</head>
+<body>
+  <header>
+    <h1>Capital Quality Monitoring System</h1>
+  </header>
+
+  <main>
+    <section class="tabs">
+      <button class="tab-button active" data-tab="dashboard">Dashboard</button>
+      <button class="tab-button" data-tab="history">History</button>
+    </section>
+
+    <section id="dashboardTab" class="tab-content active">
+      <section class="controls">
+        <button id="refreshBtn">Refresh data from API</button>
+
+        <label for="continentFilter">Continent:</label>
+        <select id="continentFilter">
+          <option value="All">All</option>
+          <option value="Europe">Europe</option>
+          <option value="Asia">Asia</option>
+          <option value="Africa">Africa</option>
+          <option value="North America">North America</option>
+          <option value="South America">South America</option>
+          <option value="Oceania">Oceania</option>
+        </select>
+
+        <label for="searchInput">Search:</label>
+        <input
+          id="searchInput"
+          type="text"
+          placeholder="Capital or country..."
+        />
+
+        <span id="statusText">Ready</span>
+        <strong id="lastUpdateText">Last data update: none</strong>
+      </section>
+
+      <section class="layout">
+        <div class="card">
+          <h2>Capital Quality Map</h2>
+
+          <div class="map-wrapper">
+            <div id="map"></div>
+
+            <div class="map-legend">
+              <strong>Legend</strong>
+              <div><span class="legend-dot green"></span> Excellent</div>
+              <div><span class="legend-dot blue"></span> Good</div>
+              <div><span class="legend-dot orange"></span> Moderate</div>
+              <div><span class="legend-dot red"></span> Poor</div>
+              <div><span class="legend-dot darkred"></span> Very poor</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2>Ranking</h2>
+  <div class="table-scroll ranking-scroll">
+          <table>
+            <thead>
+              <tr>
+                <th data-sort="city">Capital</th>
+                <th data-sort="country">Country</th>
+                <th data-sort="continent">Continent</th>
+                <th data-sort="temperature">Temp.</th>
+                <th data-sort="pm10">PM10</th>
+                <th data-sort="pm25">PM2.5</th>
+                <th data-sort="score">Score</th>
+                <th data-sort="category">Category</th>
+              </tr>
+            </thead>
+            <tbody id="rankingTableBody"></tbody>
+          </table>
+</div>
+        </div>
+      </section>
+    </section>
+
+    <section id="historyTab" class="tab-content">
+      <div class="card">
+        <h2>Capital Measurement History</h2>
+
+        <div class="history-controls">
+          <label for="historyContinentFilter">Continent:</label>
+          <select id="historyContinentFilter">
+            <option value="All">All</option>
+            <option value="Europe">Europe</option>
+            <option value="Asia">Asia</option>
+            <option value="Africa">Africa</option>
+            <option value="North America">North America</option>
+            <option value="South America">South America</option>
+            <option value="Oceania">Oceania</option>
+          </select>
+
+          <label for="citySelect">Capital:</label>
+          <select id="citySelect">
+            <option value="">-- select --</option>
+          </select>
+
+          <button id="loadHistoryBtn">Show history</button>
+        </div>
+
+        <p id="historyTitle">Select a capital to view measurement history.</p>
+<div class="history-controls">
+
+  <label for="historyMetricSelect">Chart parameter:</label>
+
+  <select id="historyMetricSelect">
+
+    <option value="score">Score</option>
+
+    <option value="temperature">Temperature</option>
+
+    <option value="pm10">PM10</option>
+
+    <option value="pm25">PM2.5</option>
+
+    <option value="wind_speed">Wind</option>
+
+    <option value="precipitation">Precipitation</option>
+
+  </select>
+
+</div>
+        <div class="chart-container">
+          <canvas id="historyChart"></canvas>
+        </div>
+<div class="table-scroll history-scroll">
+        <table>
+          <thead>
+            <tr>
+              <th>Time</th>
+              <th>Score</th>
+              <th>Category</th>
+              <th>Temp.</th>
+              <th>Wind</th>
+              <th>Precipitation</th>
+              <th>PM10</th>
+              <th>PM2.5</th>
+            </tr>
+          </thead>
+          <tbody id="historyTableBody"></tbody>
+        </table>
+      </div>
+</div>
+    </section>
+  </main>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
