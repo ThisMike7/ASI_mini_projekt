@@ -1,9 +1,5 @@
 # Capital Quality Monitoring System
 
-Mini-projekt z przedmiotu Architektura Systemów Informatycznych (ASI), Politechnika Warszawska.
-
-## O projekcie
-
 System monitoruje jakość życia w stolicach świata na podstawie danych pogodowych i jakości powietrza pobieranych na bieżąco z zewnętrznych API. Dane są zapisywane w bazie, przetwarzane do postaci rankingu i prezentowane na stronie WWW z mapą.
 
 ## Źródła danych
@@ -74,17 +70,17 @@ Po uruchomieniu dev:
 
 ## Technologie i uzasadnienie wyboru
 
-| Technologia | Rola | Dlaczego |
-|---|---|---|
-| **FastAPI** | Backend / REST API | Automatyczna dokumentacja Swagger, walidacja przez Pydantic, prosta składnia. Lżejszy niż Django. |
-| **PostgreSQL** | Baza danych | Relacyjna baza pasuje do struktury danych (miasta → pomiary). Stabilna, dobrze wspierana przez SQLAlchemy. |
-| **SQLAlchemy** | ORM | Pozwala pisać zapytania w Pythonie bez surowego SQL. Ułatwia migracje i testy (SQLite in-memory). |
-| **Docker / Compose** | Środowisko | Izolacja środowisk dev/test/prod, łatwe uruchomienie na dowolnej maszynie. |
-| **Leaflet.js** | Mapa na froncie | Lekka biblioteka do map, open-source, nie wymaga klucza API. |
-| **Chart.js** | Wykresy historii | Prosta integracja z czystym JS, czytelne wykresy liniowe. |
-| **Locust** | Testy wydajnościowe | Skrypty w Pythonie, prosty interfejs webowy do obserwacji wyników. |
-| **pytest** | Testy jednostkowe | Standardowe narzędzie do testów w Pythonie, dobra integracja z SQLAlchemy i mockami. |
-| **Vanilla JS** | Frontend | Projekt nie wymagał frameworka — prosta strona z tabelą i mapą. React byłby tu nadmiarowy. |
+| Technologia | Rola | 
+|---|---|
+| **FastAPI** | Backend / REST API |
+| **PostgreSQL** | Baza danych |
+| **SQLAlchemy** | ORM |
+| **Docker / Compose** |
+| **Leaflet.js** | Mapa na froncie | 
+| **Chart.js** | Wykresy historii |
+| **Locust** | Testy wydajnościowe | 
+| **pytest** | Testy jednostkowe | 
+| **Vanilla JS** | Frontend |
 
 ## Struktura projektu
 
